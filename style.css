@@ -1,0 +1,10 @@
+h1 { 
+    background-color:black;
+color:#7fffd4
+}
+h2 {background-color:rebeccapurple;
+    color:white; text-align: center; font-style:oblique;
+}
+h3 {background-color: #87cefa;
+    color:black; text-align:right; text-decoration-line:underline; font-style:inherit;
+}
